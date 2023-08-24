@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/tanlin2013/cookiecutter-python/",
+  "commit": "6bfde4c1deac3da192b3c9437a462848f1a45810",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Tan Tao-Lin",
+      "email": "tanlin2013@gmail.com",
+      "github_username": "tanlin2013",
+      "project_name": "tnschool2023",
+      "description": "Tensor Network summer school 2023",
+      "version": "0.0.1",
+      "_template": "https://github.com/tanlin2013/cookiecutter-python/"
+    }
+  },
+  "directory": null
+}
